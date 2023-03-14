@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Eduford.com</title>
+    <link rel="stylesheet" href="/assets/css/style.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css"
+    />
+  </head>
+  <body>
+    <section class="header">
+      <nav>
+        <a href="index.html"><img src="/assets/images/logo.png" alt="" /></a>
+
+        <div class="nav-links">
+          <ul>
+            <li><a href="">HOME</a></li>
+            <li><a href="">ABOUT</a></li>
+            <li><a href="">COURSE</a></li>
+            <li><a href="">BLOG</a></li>
+            <li><a href="">CONTACT</a></li>
+          </ul>
+        </div>
+      </nav>
+
+      <div class="text-box">
+        <h1>World's Biggest University</h1>
+        <p>
+          We’re a leading research university with a heart. Founded in the
+          decade that the U.S. Constitution was signed, we’re the nation’s
+          oldest Catholic and Jesuit university.<br />Today we’re a
+          forward-looking, diverse community devoted to social justice, restless
+          inquiry and respect for each person’s individual needs and talents.
+        </p>
+        <a href="" class="hero-btn"></a>
+      </div>
+    </section>
+
+    <!--courses-->
+
+    <section class="course">
+      <h2>Course</h2>
+      <p>
+        Explore the intersection of technology and society. Learn about
+        environmental justice. Take the famous Problem of God course. Our
+        innovative courses inspire and invite you to help solve some of today’s
+        most pressing local, national and global issues.
+      </p>
+
+      <div class="row">
+        <div class="course-col">
+          <h3>Undergraduate Programs</h3>
+          <p>
+            For decades, Eduford College has improved the health of our
+            communities, one graduate at a time. The JoAnn McGrath School of
+            Nursing and Health Professions, as one of the largest nursing
+            schools in Wisconsin, offers a wide array of fully accredited
+            nursing programs, guaranteed clinical placements and a
+            technology-rich Center for Clinical Education.
+          </p>
+        </div>
+        <div class="course-col">
+          <h3>Graduate Programs</h3>
+          <p>
+            For decades, Eduford College has improved the health of our
+            communities, one graduate at a time. The JoAnn McGrath School of
+            Nursing and Health Professions, as one of the largest nursing
+            schools in Wisconsin, offers a wide array of fully accredited
+            nursing programs, guaranteed clinical placements and a
+            technology-rich Center for Clinical Education.
+          </p>
+        </div>
+        <div class="course-col">
+          <h3>Post Graduation</h3>
+          <p>
+            For decades, Eduford College has improved the health of our
+            communities, one graduate at a time. The JoAnn McGrath School of
+            Nursing and Health Professions, as one of the largest nursing
+            schools in Wisconsin, offers a wide array of fully accredited
+            nursing programs, guaranteed clinical placements and a
+            technology-rich Center for Clinical Education.
+          </p>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>
